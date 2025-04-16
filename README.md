@@ -54,4 +54,39 @@ project-folder/
 
 ```bash
 pip install speechrecognition pyttsx3 PyPDF2 python-docx wikipedia colorama
+python main.py
+```
+---
+## 🗣️ Voice Menu Commands
+
+Use the voice menu to explore options like:
+
+- `"Text to Speech"` – Convert typed or spoken text to audio
+- `"Search on Google"` – Perform a quick Google search
+- `"Search on Wikipedia"` – Fetch summaries from Wikipedia
+- `"Word"` – Open and read a Word document
+- `"Book"` – Open and read a PDF file
+- `"Speech to Text"` – Convert spoken words into written text
+- `"Close"` – Exit the assistant
+## ❗ Notes
+
+- Ensure your **microphone** is connected and working properly.
+- An active **internet connection** is required for Google and Wikipedia search.
+- For the best experience, **speak clearly** and avoid background noise.
+- You can **customize or add new features** by editing the respective Python modules.
+
+
+## 🙌 Acknowledgments
+
+This project was developed as a part of a **Python voice assistant initiative** using natural language libraries and speech APIs.  
+It draws inspiration from popular virtual assistants like **Siri**, **Alexa**, and **Google Assistant** — simplified for **learning**, **experimentation**, and **project use**.
+
+
+## 📌 License
+
+This project is **open-source** and free to use for **educational** or **personal** purposes.  
+Feel free to **fork it**, **enhance it**, and **share your improvements**!
+
+
+
 
