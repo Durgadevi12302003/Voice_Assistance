@@ -33,4 +33,15 @@ This is a simple yet powerful Python-based voice assistant that listens to your 
 
 ## 📁 Project Structure
 
-project-folder/ │ ├── main.py # Main driver script to start the assistant ├── speakListen.py # Manages voice input and speaking output ├── websiteWork.py # Contains Google and Wikipedia search functions ├── textRead.py # Functions to read from PDF and Word files ├── dictator.py # Optional module for extra command handling ├── menu.py # Displays available features/options ├── speechtotext.py # Handles long speech-to-text conversion ├── TextTospeech.py # Manages text-to-speech conversion
+```
+project-folder/
+│
+├── main.py             # Main driver script to start the assistant
+├── speakListen.py      # Manages voice input and speaking output
+├── websiteWork.py      # Contains Google and Wikipedia search functions
+├── textRead.py         # Functions to read from PDF and Word files
+├── dictator.py         # Optional module for extra command handling
+├── menu.py             # Displays available features/options
+├── speechtotext.py     # Handles long speech-to-text conversion
+├── TextTospeech.py     # Manages text-to-speech conversion
+```
