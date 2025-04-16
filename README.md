@@ -45,3 +45,13 @@ project-folder/
 ├── speechtotext.py     # Handles long speech-to-text conversion
 ├── TextTospeech.py     # Manages text-to-speech conversion
 ```
+
+---
+
+## ▶️ How to Run the Project
+
+1. **Install the required dependencies** using pip:
+
+```bash
+pip install speechrecognition pyttsx3 PyPDF2 python-docx wikipedia colorama
+
